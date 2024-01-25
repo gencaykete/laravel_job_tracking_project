@@ -1,0 +1,1 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables.net-responsive-bs/2.3.0/responsive.bootstrap.min.js" integrity="sha512-W15uERaLyc2gUS+PmenvhASrB/0zTYkKPrl/FFueF2TGCHbgI1HTU0LC7D0ozJmvDNt7gJHyamyfTwA+XSxc8A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
